@@ -20,7 +20,7 @@ par(mfcol = c(2,2))
 plot(data_tbl$datetime, data_tbl$Global_active_power,
      type = "l",
      xlab = "",
-     ylab = "Global Active Power (kilowatts)")
+     ylab = "Global Active Power")
 
 #Lower Left Plot
 
